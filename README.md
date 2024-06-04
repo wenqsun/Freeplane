@@ -1,7 +1,7 @@
 # Freeplane: Unlocking Free Lunch in Triplane-Based Sparse-View Reconstruction Models
 
 <p align="center">
-     <span style="font-size: 30px;"><a href="https://freeplane3d.github.io/">Paper</a></span> | <span style="font-size: 30px;"><a href="https://freeplane3d.github.io/">Project Page</a></span>
+     <span style="font-size: 30px;"><a href="https://arxiv.org/abs/2406.00750">Paper</a></span> | <span style="font-size: 30px;"><a href="https://freeplane3d.github.io/">Project Page</a></span>
 </p>
 
 <p align="center">
